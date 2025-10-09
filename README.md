@@ -45,20 +45,9 @@
 🧠 Web Memory Game - Interactive JavaScript game
 
 ## 📊 Some Stats
-<table>
-  <tr>
-    <td>
-      <a href="https://app.daily.dev/mickael_">
-        <img src="https://api.daily.dev/devcards/v2/1zhY6b7Ro0HGaB80zYmA8.png?type=default&r=v8x" height="330" alt="Mickael's Dev Card"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&layout=compact" alt="Top Languages"/>
-      <br/>
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68e781c117747caa5a14636d?variant=light" height="165" alt="roadmap.sh"/></a>
-    </td>
-  </tr>
-</table>
+<a href="https://app.daily.dev/mickael_"><img src="https://api.daily.dev/devcards/v2/1zhY6b7Ro0HGaB80zYmA8.png?type=default&r=v8x" height="285" alt="Mickael's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&" height="285" alt="Top Languages"/>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68e781c117747caa5a14636d?variant=light" height="285" alt="roadmap.sh"/></a>
 
 ## 🎯 Current Focus
 
