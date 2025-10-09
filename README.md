@@ -45,9 +45,10 @@
 🧠 Web Memory Game - Interactive JavaScript game
 
 ## 📊 GitHub Stats
-//TODO  
-//make public Java and Php repos  
 ![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&layout=compact)
+
+## Learning Stats
+[![roadmap.sh](https://roadmap.sh/card/wide/68e781c117747caa5a14636d?variant=light&roadmaps=%2Clinux)](https://roadmap.sh)
 
 ## 🎯 Current Focus
 
