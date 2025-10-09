@@ -44,11 +44,21 @@
 🎵 Music Timeline - Personal project for my TIW certification (HTML,CSS,JS)  
 🧠 Web Memory Game - Interactive JavaScript game
 
-## 📊 GitHub Stats
-![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&layout=compact)
-
-## Learning Stats
-[![roadmap.sh](https://roadmap.sh/card/wide/68e781c117747caa5a14636d?variant=light&roadmaps=%2Clinux)](https://roadmap.sh)
+## 📊 Some Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/mickael_">
+        <img src="https://api.daily.dev/devcards/v2/1zhY6b7Ro0HGaB80zYmA8.png?type=default&r=v8x" height="330" alt="Mickael's Dev Card"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&layout=compact" alt="Top Languages"/>
+      <br/>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68e781c117747caa5a14636d?variant=light" height="165" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Current Focus
 
