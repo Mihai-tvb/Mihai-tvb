@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mickael  
+# Hi there! 👋 I'm Mihai  
 
 ## 🚀 About Me
 
@@ -37,16 +37,19 @@
 🔧 Backend Development: Building robust web applications with Laravel, Symfony, Express.js, Spring Boot  
 🎨 Frontend Development: Creating interactive user interfaces with JavaScript, Angular  
 🌐 WordPress Development: Custom themes and plugin development  
-📱 Responsive Design: Mobile-first approach to web development (at least tying to)
+📱 Responsive Design: Mobile-first approach to web development (at least trying to)
 
 ## 🔥 Featured Projects
 
 🎵 Music Timeline - Personal project for my TIW certification (HTML,CSS,JS)  
-🧠 Web Memory Game - Interactive JavaScript game
+🧠 Web Memory Game - Interactive JavaScript game  
+:recycle: Encheres - Online Auction Website in Java Spring Boot  
+🤙 SMTSorties - WebApp for Fun Meetings with friends in PHP Symfony
+
 
 ## 📊 Some Stats
 <a href="https://app.daily.dev/mickael_"><img src="https://api.daily.dev/devcards/v2/1zhY6b7Ro0HGaB80zYmA8.png?type=default&r=v8x" height="285" alt="Mickael's Dev Card"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FistCoder&" height="285" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihai-tvb&" height="285" alt="Top Languages"/>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68e781c117747caa5a14636d?variant=light" height="285" alt="roadmap.sh"/></a>
 
 ## 🎯 Current Focus
